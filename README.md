@@ -51,31 +51,11 @@ Instant search + contextual information for satellites and tracked objects.
 
 ## 📸 Screenshots / Demo
 
-### Video Demonstrations
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
-    <h4>Object metadata panel & filtering</h4>
-    <video width="100%" controls>
-      <source src="DEMO_VIDS/DRAKON-11925.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <h4>Orbital plane & Collision density</h4>
-    <video width="100%" controls>
-      <source src="DEMO_VIDS/DRAKON-progress.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+    <img src="ScreenShots/3d_globe_view.png" alt="3D Globe View" width="45%">
+    <img src="ScreenShots/Orbital_plane_rendering.png" alt="Orbital Plane Rendering" width="45%">
+    <img src="ScreenShots/Collision%20density%20visualization.png" alt="Collision Density Visualization" width="45%">
 </div>
-
-### Screenshots
-
-- 3D globe view
-- Object metadata panel
-- Orbital plane rendering
-- Collision density visualization
 
 ---
 

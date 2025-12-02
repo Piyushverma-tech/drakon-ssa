@@ -54,11 +54,8 @@ Instant search + contextual information for satellites and tracked objects.
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
     <img src="ScreenShots/3d_globe_view.png" alt="3D Globe View" width="45%">
     <img src="ScreenShots/Orbital_plane_rendering.png" alt="Orbital Plane Rendering" width="45%">
+      <img src="ScreenShots/Orbital_plane_rendering2.png" alt="Orbital Plane Rendering" width="45%">
     <img src="ScreenShots/Collision%20density%20visualization.png" alt="Collision Density Visualization" width="45%">
-    <video width="45%" controls>
-      <source src="Videos/DRAKON_Demo.mp4" type="video/mp4" autoplay loop>
-      Your browser does not support the video tag.
-    </video>
 </div>
 
 ---

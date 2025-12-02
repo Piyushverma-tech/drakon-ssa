@@ -56,7 +56,7 @@ Instant search + contextual information for satellites and tracked objects.
     <img src="ScreenShots/Orbital_plane_rendering.png" alt="Orbital Plane Rendering" width="45%">
     <img src="ScreenShots/Collision%20density%20visualization.png" alt="Collision Density Visualization" width="45%">
     <video width="45%" controls>
-      <source src="https://res.cloudinary.com/dsrmecb5y/video/upload/v1763313231/DRAKON-11925_vlmfnc.mp4" type="video/mp4">
+      <source src="Videos/DRAKON_Demo.mp4" type="video/mp4" autoplay loop>
       Your browser does not support the video tag.
     </video>
 </div>

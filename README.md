@@ -1,4 +1,5 @@
-# DRAKON — Space Object Tracking & Collision Awareness Platform  
+# DRAKON — Space Object Tracking & Collision Awareness Platform
+
 ### High-Level Product Showcase (Source Code Private)
 
 DRAKON is a space situational awareness (SSA) interface designed to help operators visualize orbital environments,
@@ -15,10 +16,10 @@ monitor space objects, and understand potential collision risks with clarity and
 DRAKON transforms live TLE data into an interactive orbital visualization environment.  
 It is built to assist with:
 
-- **Monitoring satellites & debris in real time**  
-- **Understanding orbital congestion and proximity patterns**  
-- **Exploring orbital planes, density layers, and object metadata**  
-- **Experimenting with early collision-risk visualization concepts**  
+- **Monitoring satellites & debris in real time**
+- **Understanding orbital congestion and proximity patterns**
+- **Exploring orbital planes, density layers, and object metadata**
+- **Experimenting with early collision-risk visualization concepts**
 
 The goal is to make complex space operations data **intuitive, visual, and actionable** — bridging engineering depth with human-centered product design.
 
@@ -27,28 +28,54 @@ The goal is to make complex space operations data **intuitive, visual, and actio
 ## 🔑 Core Capabilities (High-Level)
 
 ### **1. Global Orbital Visualization**
+
 15,000+ satellites and debris objects rendered on a 3D globe with smooth interaction and filtering.
 
 ### **2. TLE-Based Orbit Propagation**
+
 Real-time object paths generated using publicly available two-line-element datasets.
 
 ### **3. Orbital Plane Mapping**
+
 View orbital planes (LEO/MEO/GEO/Custom) and understand traffic distribution.
 
 ### **4. Collision Density Layer**
+
 A heatmap-like layer revealing zones of heavy orbital traffic and potential hotspots.
 
 ### **5. Object Search & Metadata**
+
 Instant search + contextual information for satellites and tracked objects.
 
 ---
 
-## 📸 Screenshots / Demo  
+## 📸 Screenshots / Demo
 
-- 3D globe view  
-- Object metadata panel  
-- Orbital plane rendering  
-- Collision density visualization  
+### Video Demonstrations
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <h4>Object metadata panel & filtering</h4>
+    <video width="100%" controls>
+      <source src="DEMO_VIDS/DRAKON-11925.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <h4>Orbital plane & Collision density</h4>
+    <video width="100%" controls>
+      <source src="DEMO_VIDS/DRAKON-progress.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+### Screenshots
+
+- 3D globe view
+- Object metadata panel
+- Orbital plane rendering
+- Collision density visualization
 
 ---
 
@@ -56,10 +83,10 @@ Instant search + contextual information for satellites and tracked objects.
 
 DRAKON is designed with a strong emphasis on:
 
-- **Clarity over complexity**  
-- **Operational awareness in seconds, not minutes**  
-- **Minimal visual noise, maximum informational depth**  
-- **Scalable patterns suitable for mission-critical workflows**  
+- **Clarity over complexity**
+- **Operational awareness in seconds, not minutes**
+- **Minimal visual noise, maximum informational depth**
+- **Scalable patterns suitable for mission-critical workflows**
 
 ---
 
@@ -67,17 +94,17 @@ DRAKON is designed with a strong emphasis on:
 
 The underlying implementation includes:
 
-- custom rendering logic  
-- TLE ingestion optimization  
-- data-decoupled visualization engine  
-- early collision-screening experiments  
-- internal research work  
+- custom rendering logic
+- TLE ingestion optimization
+- data-decoupled visualization engine
+- early collision-screening experiments
+- internal research work
 
 To prevent misuse and protect the integrity of the project, the source code is private.
 
 **However, I’m happy to provide code access to hiring managers, founders, or collaborators.**
 
-📩 Request access → *email or LinkedIn DM*
+📩 Request access → _email or LinkedIn DM_
 
 ---
 
@@ -92,20 +119,20 @@ More detailed thinking, UX flows, and design breakdowns:
 
 If you're evaluating my work for a role or collaboration, you can request repo access here:
 
-- Email: **piyush626480@gmail.com**  
+- Email: **piyush626480@gmail.com**
 - LinkedIn: **linkedin.com/in/piyush-verma-dev**
 
 ---
 
 ## 🔧 Current State of the Project
 
-- Core visualization engine — ✔  
-- Satellite rendering + filtering — ✔  
-- Orbital planes — ✔  
-- Collision density mapping — ✔  
-- UX prototypes — ✔  
-- Collision screening engine — 🚧 (in progress)  
-- Maneuver insights module — planned  
+- Core visualization engine — ✔
+- Satellite rendering + filtering — ✔
+- Orbital planes — ✔
+- Collision density mapping — ✔
+- UX prototypes — ✔
+- Collision screening engine — 🚧 (in progress)
+- Maneuver insights module — planned
 
 DRAKON is actively evolving based on research and community feedback.
 
@@ -113,10 +140,10 @@ DRAKON is actively evolving based on research and community feedback.
 
 ## ⚙️ Tech Summary (High-Level Only)
 
-- 3D visualization (WebGL-based)  
-- TLE parsing + propagation  
-- Modular, data-driven rendering  
-- Real-time update loops  
+- 3D visualization (WebGL-based)
+- TLE parsing + propagation
+- Modular, data-driven rendering
+- Real-time update loops
 
 ---
 
@@ -126,5 +153,3 @@ DRAKON is built with one intention:
 **make space operations more understandable, visual, and safe.**
 
 It is not just a project — it is an exploration into the future of orbital awareness tools.
-
-
